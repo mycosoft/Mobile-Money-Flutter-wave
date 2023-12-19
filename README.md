@@ -1,4 +1,7 @@
-![MTN AIRTEL](https://i.ibb.co/Sy2pvFt/mtn-and-airtel.jpg)
+![image](https://github.com/mycosoft/Mobile-Money-Flutter-wave/assets/34786713/093368f2-3ee6-48b8-b4a7-9882a29bf446)
+![image](https://github.com/mycosoft/Mobile-Money-Flutter-wave/assets/34786713/c42f0aaa-0496-456f-9250-b5eb26be54d9)
+
+
 
 Add Mobile Money payments to your flutter apps using the FlutterWave api gateway.
 
